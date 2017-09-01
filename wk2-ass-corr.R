@@ -1,7 +1,3 @@
-
-
-
-
 ##---------deze is goed en gecommit in GIT !!! ---------
 
 corr<-function(directory,treshold=0){
